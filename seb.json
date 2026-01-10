@@ -4,22 +4,14 @@
   "packages": {
     "fastfetch": {
       "version": "2.30.1",
-      "size_mb": 5,
-      "url": "https://github.com/CrimsonOnGit-hub/sebrepository/releases/download/Repository/fastfetch.deb",
-      "desc": "Ultra-fast system information tool- For arch64 computers"
-    }
-    "fastfetch-amd": {
-      "version": "2.30.1",
-      "size_mb": 5,
-      "url": "https://github.com/CrimsonOnGit-hub/sebrepository/releases/download/Repository/fastfetchamd.deb",
-      "desc": "Ultra-fast system information tool-For amd computers"
-    }
-    "btop": {
-      "version": "1.3.2",
-      "size_mb": 2,
-      "url": "github.com",
-      "desc": "Resource monitor that looks like a spaceship"
+      "url_amd64": "github.com",
+      "url_arm64": "github.com",
+      "desc": "System info tool"
+    },
+    "legacy-tool": {
+      "version": "0.1",
+      "url_i386": "https://example.com/old_tool.deb",
+      "desc": "A tool for very old 32-bit PCs"
     }
   }
 }
-
