@@ -4,8 +4,8 @@
   "packages": {
     "fastfetch": {
       "version": "2.30.1",
-      "url_amd64": "https://github.com/CrimsonOnGit-hub/sebrepository/blob/main/fastfetchamd.deb",
-      "url_arm64": "https://github.com/CrimsonOnGit-hub/sebrepository/blob/main/fastfetcharm.deb",
+      "url_amd64": "https://github.com/CrimsonOnGit-hub/sebrepository/main/fastfetchamd.deb",
+      "url_arm64": "https://github.com/CrimsonOnGit-hub/sebrepository/main/fastfetcharm.deb",
       "desc": "System info tool"
     },
     "legacy-tool": {
@@ -15,5 +15,6 @@
     }
   }
 }
+
 
 
