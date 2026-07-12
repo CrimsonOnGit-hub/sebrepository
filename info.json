@@ -4,17 +4,14 @@
   "packages": {
     "fastfetch": {
       "version": "2.30.1",
-      "url_amd64": "https://github.com/CrimsonOnGit-hub/sebrepository/main/fastfetchamd.deb",
-      "url_arm64": "https://github.com/CrimsonOnGit-hub/sebrepository/main/fastfetcharm.deb",
+      "url_amd64": "https://raw.githubusercontent.com/CrimsonOnGit-hub/sebrepository/main/fastfetchamd.deb",
+      "url_arm64": "https://raw.githubusercontent.com/CrimsonOnGit-hub/sebrepository/main/fastfetcharm.deb",
       "desc": "System info tool"
     },
     "legacy-tool": {
       "version": "0.1",
-      "url_i386": "https://example.com/old_tool.deb",
+      "url_i386": "https://raw.githubusercontent.com/CrimsonOnGit-hub/sebrepository/main/old_tool.deb",
       "desc": "A tool for very old 32-bit PCs"
     }
   }
 }
-
-
-
