@@ -7,7 +7,7 @@
       "url_amd64": "https://raw.githubusercontent.com/CrimsonOnGit-hub/sebrepository/main/fastfetchamd.deb",
       "url_arm64": "https://raw.githubusercontent.com/CrimsonOnGit-hub/sebrepository/main/fastfetcharm.deb",
       "desc": "System info tool",
-      "tags": "Made for WSL"
+      "tags": "Made for WSL",
     },
     "legacy-tool": {
       "version": "0.1",
